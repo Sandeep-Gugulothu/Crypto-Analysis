@@ -16,10 +16,10 @@ This project is a **Crypto Analysis Dashboard** designed to provide detailed ins
 
 In the notebooks folder, include PNG/JPG image files and use:
 
-```python
+
 from IPython.display import Image
 Image('https://github.com/Sandeep-Gugulothu/Crypto-Analysis/blob/main/Screenshot%202025-06-13%20024435.png')
-```
+
 
 You can also use Plotly to export charts as images and embed them directly.
 

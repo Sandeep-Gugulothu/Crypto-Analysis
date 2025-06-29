@@ -11,4 +11,10 @@ This project is a **Crypto Analysis Dashboard** designed to provide detailed ins
 * Top gainers and losers tracking
 * Volume-based ranking of cryptocurrencies
 * Interactive charts and tables with images displayed inline
+
+## Here are few Visuals
 ![Logo](./Screenshot%202025-06-13%20024435.png)
+![Logo](./Screenshot%202025-06-13%20114137.png)
+![Logo](./Screenshot%202025-06-13%20114207.png)
+![Logo](./Screenshot%202025-06-13%20115447.png)
+
